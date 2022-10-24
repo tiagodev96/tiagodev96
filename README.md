@@ -1,15 +1,13 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Tiago Batista</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiagodev96&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Junior Web Developer focused on learn and create incredible web layouts and experiences! 
-
-- 🔭 I’m currently working at Maybelline L'Oréal as Sales Manager
+- 🔥 Front-end Developer focused on learn and create incredible layouts and experiences! 
 
 <!-- - 👨‍💻 All of my projects are available at [maykbrito.dev](https://maykbrito.dev) ACRESCENTAR SITE DE PORTFÓLIO QUANDO ESTIVER PRONTO -->
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
 
-- ⚡ Fun fact **Married at 23 years old 💍**
+- ⚡ Fun fact **Living in Portugal with my wife 💍**
 
 <br><br>
 
