@@ -5,9 +5,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at [maykbrito.dev](https://maykbrito.dev) ACRESCENTAR SITE DE PORTFÓLIO QUANDO ESTIVER PRONTO -->
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
-
-- ⚡ Fun fact **Living in Portugal with my wife 💍**
+- 💬 Ask me about **JavaScript, HTML, CSS, ReactJS, React Native, Python DRF, SQL, Node.JS**
 
 <br><br>
 
@@ -25,13 +23,6 @@
 
 <br><br>
 
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=tiagodev96&show_icons=true&theme=vision-friendly-dark" alt="tiagodev96's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagodev96&layout=compact&theme=vision-friendly-dark" alt="tiagodev96's most languages"/>
-</p>
-
 <br><br>
 
 ## 👨🏽‍🦲 &nbsp;Social Links
@@ -40,7 +31,7 @@
 <a href="https://www.linkedin.com/in/tiagocb96/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
-<!-- ADICIONAR INSTAGRAM QUANDO TIVER CRIADO O PROFISSIONAL <a href="https://instagram.com/maykbrito" target="_blank">
+<a href="https://instagram.com/_codigosimplificado" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a> -->
+</a>
 </p>
